@@ -3,3 +3,7 @@
 **Sobre:** Git .gitignore
 **Stack:** Git
 **Data:** 14/09/2023    
+
+cat .gitignore
+*.java
+hello.c
